@@ -51,14 +51,6 @@ It provides a simple and intuitive interface that allows users to:
 
 ---
 
-## 🛠 Requirements
-
-- OS: Windows (native support)
-- .NET or Python backend (depending on version, if source provided)
-- Internet access (for certain tools)
-
----
-
 ## 🧑‍💻 Developer Notes
 
 This tool is designed with a slick dark-themed UI inspired by the hacker culture of *Mr. Robot*. It provides a safe way to learn about HTTP flooding mechanisms in a controlled environment.
