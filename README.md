@@ -54,11 +54,3 @@ You can download the precompiled Windows executable here:
 2. Run the executable.
 3. Input the target URL, select the attack method, set the thread count, and specify the duration.
 4. Click "Start" to initiate the attack simulation.
-
-### Using the Python Script
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ast4aaaa/FsocietyDDosV4.git
-   cd FsocietyDDosV4 && python FsocietyV4.py
